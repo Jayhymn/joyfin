@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Joyfin</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="email_address">Email address</string>
+    <string name="password">password</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="verified">Verified</string>
+    <string name="filter">filter</string>
+    <string name="tier">Tier</string>
+    <string name="this_month">This Month</string>
+    <string name="last_month">Last Month</string>
+    <string name="select_date">Select Date</string>
+    <string name="custom_range">Custom Range</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="savings_summary">Savings summary (% against last month)</string>
+    <string name="profile">Profile</string>
+    <string name="send">Send</string>
+    <string name="cards">Cards</string>
+    <string name="date_range">Jan 23, 2023 - Feb 12, 2024</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="verify_email_message">Click proceed to send\n a verification code\n to</string>
+    <string name="verify_email_title">Email Verification</string>
+    <string name="proceed">Proceed</string>
+    <string name="cancel">Cancel</string>
+    <string name="not_a_valid_email">Not a valid email</string>
+    <!--    <string name="bottom_sheet_behavior" translatable="false">com.google.android.material.bottomsheet.BottomSheetBehavior</string>-->
+</resources>

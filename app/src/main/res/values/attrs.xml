@@ -1,0 +1,8 @@
+
+<resources>
+    <attr name="colorFfc0cb" format="color" />
+    <attr name="colorOnFfc0cb" format="color" />
+    <attr name="colorFfc0cbContainer" format="color" />
+    <attr name="colorOnFfc0cbContainer" format="color" />
+    <attr name="harmonizeFfc0cb" format="boolean" />
+</resources>
